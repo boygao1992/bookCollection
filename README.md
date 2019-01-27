@@ -11,3 +11,25 @@
 # Technology
 
 ### 1.[W. Brian Arthur - The Nature of Technology: What It Is and How It Evolves](https://www.amazon.com/Nature-Technology-What-How-Evolves/dp/1416544062)
+
+# Logic
+
+### 1.[Michael R. Genesereth - Logical Foundations of Artificial Intelligence](https://www.amazon.com/Logical-Foundations-Artificial-Intelligence-Genesereth/dp/0934613311/)
+
+> 9.11 Group Knowledge
+>
+> - IK, implicit knowledge
+> - SK, some agent knows
+> - EK, every agent knows
+> - CK, common knowledge
+>
+> EK^2(G, \phi) ~ EK(G, EK(G, \phi)), degree = 2
+> every agent from a finite group G knows that every agent from G knows statement \phi
+>
+> CK(G, \phi) = \phi \land EK(G, \phi) \land EK^2(G, \phi) \land ...
+> common knowledge 
+> every member of G knows \phi to degree k, for some k >= 1
+
+> 10 Metaknowledge and Metareasoning
+> 10.7 Bilevel Reasoning
+> 10.8 Reflection
