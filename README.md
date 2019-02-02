@@ -12,6 +12,8 @@
 
 ### 1.[W. Brian Arthur - The Nature of Technology: What It Is and How It Evolves](https://www.amazon.com/Nature-Technology-What-How-Evolves/dp/1416544062)
 
+### 2.[A Mind at Play: How Claude Shannon Invented the Information Age](https://www.amazon.com/Mind-Play-Shannon-Invented-Information-ebook/dp/B01M5IJN1P/)
+
 # Logic
 
 ### 1.[Michael R. Genesereth - Logical Foundations of Artificial Intelligence](https://www.amazon.com/Logical-Foundations-Artificial-Intelligence-Genesereth/dp/0934613311/)
