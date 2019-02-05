@@ -6,6 +6,10 @@
 
 ### 2.[Samir Amin - Modern Imperialism, Monopoly Finance Capital, and Marx's Law of Value](https://www.amazon.com/dp/B075XT33QY/)
 
+# Psychology
+
+### 1.[Max Jakob Lusensky - Brandpsycho: The hidden psychology of brands](https://www.amazon.com/Brandpsycho-hidden-psychology-brands-2nd-ebook/dp/B07FSRDYCV/)
+
 # Technology
 
 ### 1.[W. Brian Arthur - The Nature of Technology: What It Is and How It Evolves](https://www.amazon.com/Nature-Technology-What-How-Evolves/dp/1416544062)
