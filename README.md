@@ -43,3 +43,9 @@
 ### 1.[The Case for Mars: The Plan to Settle the Red Planet and Why We Must](https://www.amazon.com/Case-Mars-Plan-Settle-Planet/dp/145160811X)
 
 [Audible](https://www.amazon.com/Case-Mars-Plan-Settle-Planet-dp-B079C72B6R/dp/B079C72B6R/)
+
+# Math
+
+### 1. B. A. Davey - Introduction to Lattices and Order
+
+### 2. [Homotopy Type Theory (HoTT) Book](https://homotopytypetheory.org/book/)
