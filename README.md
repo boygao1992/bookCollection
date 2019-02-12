@@ -6,6 +6,8 @@
 
 ### 2.[Samir Amin - Modern Imperialism, Monopoly Finance Capital, and Marx's Law of Value](https://www.amazon.com/dp/B075XT33QY/)
 
+### 3.[The Righteous Mind: Why Good People Are Divided by Politics and Religion](https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion-ebook/dp/B0052FF7YM/)
+
 # Psychology
 
 ### 1.[Max Jakob Lusensky - Brandpsycho: The hidden psychology of brands](https://www.amazon.com/Brandpsycho-hidden-psychology-brands-2nd-ebook/dp/B07FSRDYCV/)
