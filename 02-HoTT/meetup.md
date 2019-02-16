@@ -9,6 +9,8 @@
 - [Types and Programming Language (TAPL)](https://www.cis.upenn.edu/~bcpierce/tapl/)
 - Principles of Programming Languages (POPL)
 - [Ronald Brown - Topology and Groupoid](https://groupoids.org.uk/pdffiles/topgrpds-e.pdf)
+- [JEAN-YVES GIRARD - PROOFS AND TYPES](http://www.paultaylor.eu/stable/prot.pdf)
+- [Programming in Martin-Lof's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
 
 Cale's repo
 - [dependent-sum](https://github.com/obsidiansystems/dependent-sum)
