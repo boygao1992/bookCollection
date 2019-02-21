@@ -2,3 +2,7 @@
 
 > Classical logic is a functional-programming language with `letcc`
 > , and intuitionistic logic is a functional programming language without it.
+
+[Nuprl Section: NuprlPrimitives - Explanations of Nuprl Primitives and Conventions - Disjoint Union of Two Types](http://www.cs.cornell.edu/Info/People/sfa/Nuprl/NuprlPrimitives/Xdisjoint_union_doc.html)
+
+> InjCase
