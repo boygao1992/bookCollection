@@ -51,3 +51,24 @@
 ### 1. B. A. Davey - Introduction to Lattices and Order
 
 ### 2. [Homotopy Type Theory (HoTT) Book](https://homotopytypetheory.org/book/)
+
+### 3. [Henk Barendregt - Lambda Calculi with Types](https://ttic.uchicago.edu/~dreyer/course/papers/barendregt.pdf)
+
+> 2.1 The system
+
+> Free and bound variables
+> - alpha-conversion: rename bound variable
+> - beta-conversion: substitution
+> `(\x. M)N = M[N/x]`
+>   - substitution is only performed in the free occurrences of `x`:
+>   `yx(\x. x)[N/x] = yN(\x. x)`
+
+> Definition 2.1.1. the set of lambda-terms
+> Notation 2.1.4. definitional equality
+> Definition 2.1.5. the set of free variables
+
+### 4. [Simon Thompson - Type Theory and Functional Programming (TTFP)](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
+
+> Definition 2.4 substitution
+
+### 5. [Robert Harper - Practical Foundations For Programming Languages](https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf)
