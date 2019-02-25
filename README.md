@@ -8,6 +8,8 @@
 
 ### 3.[The Righteous Mind: Why Good People Are Divided by Politics and Religion](https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion-ebook/dp/B0052FF7YM/)
 
+### 4.[Capital: Volume 1: A Critique of Political Economy](https://www.amazon.com/Capital-1-Critique-Political-Economy/dp/B07B5F955W/)
+
 # Psychology
 
 ### 1.[Max Jakob Lusensky - Brandpsycho: The hidden psychology of brands](https://www.amazon.com/Brandpsycho-hidden-psychology-brands-2nd-ebook/dp/B07FSRDYCV/)
