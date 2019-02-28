@@ -74,3 +74,5 @@
 > Definition 2.4 substitution
 
 ### 5. [Robert Harper - Practical Foundations For Programming Languages](https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf)
+
+### 6. [F. William Lawvere - Conceptual Mathematics: A First Introduction to Categories](https://www.amazon.com/Conceptual-Mathematics-First-Introduction-Categories/dp/052171916X)
