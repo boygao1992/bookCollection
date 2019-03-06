@@ -1,3 +1,12 @@
+# 2019-03-04 HoTT Reading Group Ch.1 (I of II)
+
+[GENERIC FIBRATIONAL INDUCTION](https://arxiv.org/pdf/1206.0357.pdf)
+> lazy list in haskell is not free monoid, IIRC
+- [Domains, Sets, Traversals and Applicatives](http://comonad.com/reader/2015/domains-sets-traversals-and-applicatives/)
+
+- [Programming Language Foundations in Agda](https://plfa.github.io/)
+- [Software Foundations Vol 1 - Logic Programming in Coq](https://softwarefoundations.cis.upenn.edu/lf-current/toc.html)
+
 # 2019-02-15 HoTT Reading Kickoff
 
 > Additionally, here is Steve Awodey's Category theory book (great for beginners): http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.211.4754&rep=rep1&type=pdf
