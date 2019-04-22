@@ -1,3 +1,11 @@
+# AI
+
+### 1.[On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines](https://www.amazon.com/dp/B003J4VE5Y/)
+
+[Hierarchical Temporal Memory | Numenta](https://numenta.org/)
+
+[A Review of 40 Years of Cognitive Architecture Research: Core Cognitive Abilities and Practical Applications](https://arxiv.org/abs/1610.08602)
+
 # Politics
 
 ### 1.[Francis Fukuyama - The Origins of Political Order: From Prehuman Times to the French Revolution](https://www.amazon.com/dp/B00457X7VI/)
@@ -9,6 +17,26 @@
 ### 3.[The Righteous Mind: Why Good People Are Divided by Politics and Religion](https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion-ebook/dp/B0052FF7YM/)
 
 ### 4.[Capital: Volume 1: A Critique of Political Economy](https://www.amazon.com/Capital-1-Critique-Political-Economy/dp/B07B5F955W/)
+
+### 5. The Theory of World System
+
+[Immanuel Wallerstein - The Modern World-System I: Capitalist Agriculture and the Origins of the European World-Economy in the Sixteenth Century](https://www.amazon.com/dp/B005CPYF40)
+
+[The Modern World-System II: Mercantilism and the Consolidation of the European World-Economy, 1600–1750](https://www.amazon.com/dp/B005CPYER8/)
+
+[The Modern World-System III: The Second Era of Great Expansion of the Capitalist World-Economy, 1730s–1840s](https://www.amazon.com/dp/B005CPYGB2/)
+
+### 6. Dependency Theory
+
+[Andre Gunder Frank - Dependent Accumulation and Underdevelopment](https://www.amazon.com/dp/0853454922)
+
+[Capitalism and Underdevelopment in Latin America: Historical Studies of Chile and Brazil](https://www.amazon.com/dp/0853450935/)
+
+[World Accumulation (1492 - 1789)](https://www.amazon.com/dp/1583671935/)
+
+[Unequal Development: An Essay on the Social Formations of Peripheral Capitalism](https://www.amazon.com/dp/0853454337)
+
+[Samir Amin - The Modern World-System IV: Centrist Liberalism Triumphant, 1789–1914](https://www.amazon.com/dp/B004XU6G4W/)
 
 # Psychology
 
@@ -76,3 +104,5 @@
 ### 5. [Robert Harper - Practical Foundations For Programming Languages](https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf)
 
 ### 6. [F. William Lawvere - Conceptual Mathematics: A First Introduction to Categories](https://www.amazon.com/Conceptual-Mathematics-First-Introduction-Categories/dp/052171916X)
+
+### 7. [Douglas R. Hofstadter - Fluid concepts and creative analogies](https://www.amazon.com/dp/B001SESFSQ/)
