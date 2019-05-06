@@ -6,6 +6,27 @@
 
 [A Review of 40 Years of Cognitive Architecture Research: Core Cognitive Abilities and Practical Applications](https://arxiv.org/abs/1610.08602)
 
+chapter 1 artificial intelligence
+
+> According to Francis Crick, neuroscience was a lot of data without a theory. His exact words were, “what is conspicuously lacking is a broad framework of ideas.”
+
+chapter 2 neural networks
+
+> My first criterion was the inclusion of time in brain function.
+> The second criterion was the importance of feedback.
+> The third criterion was that any theory or model of the brain should account for the physical architecture of the brain.
+
+> many mainstream cognitive neuroscientists continue to buy into the input-output fallacy. You present a fixed input and see what output you get.
+
+[Autoassociative memory](https://en.wikipedia.org/wiki/Autoassociative_memory)
+
+> Auto-associative memories hinted at the potential importance of feedback and time-changing inputs.
+
+> it seems intuitively obvious that intelligent behavior should be the metric of an intelligent system
+> However, looking across the history of science, we see our intuition is often the biggest obstacle to discovering the truth.
+> e.g. geocentric model -> heliocentrism; theory of evolution
+
+
 # Politics
 
 ### 1.[Francis Fukuyama - The Origins of Political Order: From Prehuman Times to the French Revolution](https://www.amazon.com/dp/B00457X7VI/)
@@ -106,3 +127,5 @@
 ### 6. [F. William Lawvere - Conceptual Mathematics: A First Introduction to Categories](https://www.amazon.com/Conceptual-Mathematics-First-Introduction-Categories/dp/052171916X)
 
 ### 7. [Douglas R. Hofstadter - Fluid concepts and creative analogies](https://www.amazon.com/dp/B001SESFSQ/)
+
+> mountain-chain sequence
