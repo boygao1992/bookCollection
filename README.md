@@ -1,5 +1,9 @@
 # AI
 
+[A Review of 40 Years in Cognitive Architecture Research Core Cognitive Abilities and Practical Applications](https://arxiv.org/abs/1610.08602)
+
+> Recently, claims have been made that deep learning is capable of solving AI by Google (DeepMind). Likewise, Facebook AI Research (FAIR) and other companies are actively working in the same direction. However, the question is where does this work stand with respect to cognitive architectures? Overall, the DeepMind research addresses a number of important issues in AI, such as natural language understanding, perceptual processing, general learning, and strategies for evaluating artificial intelligence. Although particular models already demonstrate cognitive abilities in limited domains, at this point they do not represent a unified model of intelligence.
+
 ### 1.[On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines](https://www.amazon.com/dp/B003J4VE5Y/)
 
 [Hierarchical Temporal Memory | Numenta](https://numenta.org/)
@@ -25,6 +29,11 @@ chapter 2 neural networks
 > it seems intuitively obvious that intelligent behavior should be the metric of an intelligent system
 > However, looking across the history of science, we see our intuition is often the biggest obstacle to discovering the truth.
 > e.g. geocentric model -> heliocentrism; theory of evolution
+
+
+### 2. [Volume 4. Memory Evolutive Systems; Hierarchy, Emergence, Cognition - Series: Studies in Multidisciplinarity](https://www.elsevier.com/books/memory-evolutive-systems-hierarchy-emergence-cognition/ehresmann/978-0-444-52244-3)
+
+category theoretical formalization to study the behavior of complex dynamic evolutive systems
 
 
 # Politics
@@ -129,3 +138,4 @@ chapter 2 neural networks
 ### 7. [Douglas R. Hofstadter - Fluid concepts and creative analogies](https://www.amazon.com/dp/B001SESFSQ/)
 
 > mountain-chain sequence
+
