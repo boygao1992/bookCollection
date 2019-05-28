@@ -8,6 +8,10 @@
 
 [Hierarchical Temporal Memory | Numenta](https://numenta.org/)
 
+[Build HTM Systems](https://buildinghtm.systems/)
+
+[On-chip Face Recognition System Design with Memristive Hierarchical Temporal Memory](https://arxiv.org/abs/1709.08184)
+
 [A Review of 40 Years of Cognitive Architecture Research: Core Cognitive Abilities and Practical Applications](https://arxiv.org/abs/1610.08602)
 
 chapter 1 artificial intelligence
