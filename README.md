@@ -6,6 +6,8 @@
 
 ### 1.[On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines](https://www.amazon.com/dp/B003J4VE5Y/)
 
+[Quantum Well | Room-temperature Operation of Low-voltage, Non-volatile, Compound-semiconductor Memory Cells](https://www.nature.com/articles/s41598-019-45370-1)
+
 [Hierarchical Temporal Memory | Numenta](https://numenta.org/)
 
 [Build HTM Systems](https://buildinghtm.systems/)
@@ -38,6 +40,28 @@ chapter 2 neural networks
 ### 2. [Volume 4. Memory Evolutive Systems; Hierarchy, Emergence, Cognition - Series: Studies in Multidisciplinarity](https://www.elsevier.com/books/memory-evolutive-systems-hierarchy-emergence-cognition/ehresmann/978-0-444-52244-3)
 
 category theoretical formalization to study the behavior of complex dynamic evolutive systems
+
+### 3. [Handbook of Neuroevolution Through Erlang](https://www.springer.com/us/book/9781461444626)
+
+[source code](https://github.com/CorticalComputer/Book_NeuroevolutionThroughErlang)
+
+[raymoo/NEET](https://github.com/raymoo/NEET)
+
+[aartamonau/haskell-neat](https://github.com/aartamonau/haskell-neat)
+
+# Dynamic Systems
+
+### 1.[Ilya Prigogine - Order Out of Chaos: Man's New Dialogue with Nature](https://www.amazon.com/dp/B01N7H2J3B/)
+
+### 2.[Ilya Prigogine - From Being to Becoming: Time and Complexity in the Physical Sciences](https://www.amazon.com/dp/0716711087/)
+
+### 3.[Erwin Schrodinger - What is Life?](https://www.amazon.com/dp/B00E3URD7Q/)
+
+### 4.[Robert M. May - Stability and Complexity in Model Ecosystems](https://www.amazon.com/dp/0691088616/)
+
+### 5.[Chen Ping - Metabolic Growth Theory](https://book.douban.com/subject/33440184/)
+
+[Metabolic growth theory: market-share competition, learning uncertainty, and technology wavelets](https://ideas.repec.org/a/spr/joevec/v24y2014i2p239-262.html)
 
 
 # Politics
@@ -143,3 +167,15 @@ category theoretical formalization to study the behavior of complex dynamic evol
 
 > mountain-chain sequence
 
+### 8. [Picturing Quantum Processes: A First Course in Quantum Theory and Diagrammatic Reasoning](https://www.amazon.com/dp/B06XB1K71P/)
+
+> Some process theories we will encounter are:
+> - functions (types = sets)
+> - relations (types = sets, again)
+> - linear maps (types = vector spaces, or Hilbert spaces)
+> - classical processes (types = classical systems)
+> - quantum processes (types = quantum and classical systems)
+
+# Philosophy
+
+### 1.[Denis McManus - The Enchantment of Words: Wittgenstein's Tractatus Logico-Philosophicus](https://www.amazon.com/Enchantment-Words-Wittgensteins-Tractatus-Logico-Philosophicus-ebook/dp/B005FBSDP8/ref=sr_1_1?keywords=The+Enchantment+of+Words%3A+Wittgenstein%27s+Tractatus+Logico-Philosophicus&qid=1561598597&s=gateway&sr=8-1)
