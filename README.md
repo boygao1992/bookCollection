@@ -49,7 +49,7 @@ category theoretical formalization to study the behavior of complex dynamic evol
 
 [aartamonau/haskell-neat](https://github.com/aartamonau/haskell-neat)
 
-# Dynamic Systems
+# Complex Systems
 
 ### 1.[Ilya Prigogine - Order Out of Chaos: Man's New Dialogue with Nature](https://www.amazon.com/dp/B01N7H2J3B/)
 
@@ -134,6 +134,10 @@ category theoretical formalization to study the behavior of complex dynamic evol
 
 [Audible](https://www.amazon.com/Case-Mars-Plan-Settle-Planet-dp-B079C72B6R/dp/B079C72B6R/)
 
+# Futurology
+
+### 1.[Alvin Toffler - The Third Wave](https://www.amazon.com/dp/B07NPT9R3X/)
+
 # Math
 
 ### 1. B. A. Davey - Introduction to Lattices and Order
@@ -178,4 +182,10 @@ category theoretical formalization to study the behavior of complex dynamic evol
 
 # Philosophy
 
-### 1.[Denis McManus - The Enchantment of Words: Wittgenstein's Tractatus Logico-Philosophicus](https://www.amazon.com/Enchantment-Words-Wittgensteins-Tractatus-Logico-Philosophicus-ebook/dp/B005FBSDP8/ref=sr_1_1?keywords=The+Enchantment+of+Words%3A+Wittgenstein%27s+Tractatus+Logico-Philosophicus&qid=1561598597&s=gateway&sr=8-1)
+### 1.[Denis McManus - The Enchantment of Words: Wittgenstein's Tractatus Logico-Philosophicus](https://www.amazon.com/dp/B005FBSDP8/)
+
+### 2.Frederick Engels - Dialectics of Nature (1883)
+
+> The old teleology has gone to the devil, but it is now firmly established that matter in its eternal cycle moves according to laws which at a definite stage – now here, now there – necessarily give rise to the thinking mind in organic beings.
+
+> The normal existence of animals is given by the contemporary conditions in which they live and to which they adapt themselves – those of man, as soon as he differentiates himself from the animal in the narrower sense, have as yet never been present, and are only to be elaborated by the ensuing historical development. Man is the sole animal capable of working his way out of the merely animal state – his normal state is one appropriate to his consciousness, one that has to be created by himself.
