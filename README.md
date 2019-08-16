@@ -1,3 +1,13 @@
+# Physics
+
+### 1. [Structure and Interpretation of Classical Mechanics (SICM)](https://tgvaughan.github.io/sicm/)
+
+# Consciousness
+
+### 1.[The Case Against Reality: Why Evolution Hid the Truth from Our Eyes](https://www.amazon.com/dp/0393254690)
+
+### 2.[Minimal Selfhood and the Origins of Consciousness](https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/15747)
+
 # AI
 
 [A Review of 40 Years in Cognitive Architecture Research Core Cognitive Abilities and Practical Applications](https://arxiv.org/abs/1610.08602)
