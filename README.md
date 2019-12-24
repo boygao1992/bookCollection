@@ -196,6 +196,30 @@ category theoretical formalization to study the behavior of complex dynamic evol
 > - classical processes (types = classical systems)
 > - quantum processes (types = quantum and classical systems)
 
+### 9. [Change: Principles of Problem Formation and Problem Resolution](https://www.amazon.com/dp/0393707067)
+
+changes
+- first-order: Group Theory
+- second-order: Type Theory
+
+> Myriads of things can be expressed in a language, except statements referring to that language itself.
+> If we want to talk about a language, as linguists and semanticists have to, we need a metalanguage which, in turn, requires a metametalanguage for the expression of its own structure.
+> Very much the same holds for the relation between signs and their meaning.
+
+> To confuse method with methodology would produce philosophical nonsense since, as Wittgenstein once said, “philosophical problems arise when language goes on holiday”.
+> Unfortunately, natural language often makes a clear distinction between member and class difficult.
+
+> But the formulation that is perhaps most relevant to our subject matter is the one given by Ashby for the cybernetic properties of a machine with input: “It will be seen that the word ‘change’ if applied to such a machine can refer to two very different things.
+> There is the change from state to state, . . . , which is the machine’s behavior
+> , and there is the change from transformation to transformation, . . . , which is a change of its way of behaving, and which occurs at the whim of the experimenter or some outside factor.
+> The distinction is fundamental and must on no account be slighted”.
+
+> Group Theory gives us a framework for thinking about the kind of change that can occur within a system that itself stays invariant
+> ; the Theory of Logical Types is not concerned with what goes on inside a class, i.e., between its members, but gives us a frame for considering the relationship between member and class and the peculiar metamorphosis which is in the nature of shifts from one logical level to the next higher.
+> If we accept this basic distinction between the two theories, it follows that there are two different types of change
+> : one that occurs within a given system which itself remains unchanged
+> , and one whose occurrence changes the system itself. 
+
 # Philosophy
 
 ### 1.[Denis McManus - The Enchantment of Words: Wittgenstein's Tractatus Logico-Philosophicus](https://www.amazon.com/dp/B005FBSDP8/)
