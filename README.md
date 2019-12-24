@@ -8,6 +8,8 @@
 
 ### 1. [Structure and Interpretation of Classical Mechanics (SICM)](https://tgvaughan.github.io/sicm/)
 
+### 2.[Max Jammer - Concepts of Mass in Contemporary Physics and Philosophy](https://www.amazon.com/dp/069101017X/)
+
 # Consciousness
 
 ### 1.[The Case Against Reality: Why Evolution Hid the Truth from Our Eyes](https://www.amazon.com/dp/0393254690)
