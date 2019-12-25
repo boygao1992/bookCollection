@@ -231,3 +231,7 @@ changes
 > The old teleology has gone to the devil, but it is now firmly established that matter in its eternal cycle moves according to laws which at a definite stage – now here, now there – necessarily give rise to the thinking mind in organic beings.
 
 > The normal existence of animals is given by the contemporary conditions in which they live and to which they adapt themselves – those of man, as soon as he differentiates himself from the animal in the narrower sense, have as yet never been present, and are only to be elaborated by the ensuing historical development. Man is the sole animal capable of working his way out of the merely animal state – his normal state is one appropriate to his consciousness, one that has to be created by himself.
+
+### 3.[The Rediscovery of the Mind (Representation and Mind)](https://www.amazon.com/dp/026269154X/)
+
+### 4.[Jean-Paul Sartre - Being and Nothingness](https://www.amazon.com/dp/0671867806/)
