@@ -16,6 +16,8 @@
 
 ### 2.[Minimal Selfhood and the Origins of Consciousness](https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/15747)
 
+### 3.[The Modularity of Mind: An Essay on Faculty Psychology](https://www.amazon.com/dp/0262560259/)
+
 # AI
 
 [A Review of 40 Years in Cognitive Architecture Research Core Cognitive Abilities and Practical Applications](https://arxiv.org/abs/1610.08602)
@@ -221,6 +223,8 @@ changes
 > If we accept this basic distinction between the two theories, it follows that there are two different types of change
 > : one that occurs within a given system which itself remains unchanged
 > , and one whose occurrence changes the system itself. 
+
+### 10. [David I. Spivak - Category Theory for the Sciences](https://www.amazon.com/dp/0262028131/)
 
 # Philosophy
 
