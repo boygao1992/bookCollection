@@ -1,4 +1,4 @@
-# The Semantics of the Judgment Forms
+# Chapter 4: The Semantics of the Judgment Forms
 
 canonical expressions (expressions on canonical form)
 - represents values
